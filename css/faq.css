@@ -1,0 +1,13 @@
+
+        h1{
+            text-align: center;
+            color: red;
+            font-size: 30px;
+        }
+        p{
+            text-align: justify;
+            margin:0 250px;
+            font-size: 25px;
+            color: blue;
+        }
+   
